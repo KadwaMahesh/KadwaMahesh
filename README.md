@@ -1,6 +1,4 @@
 ### Hi there 👋, I am Mahesh Choudhary
-    <img align="right" alt="coding" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif
-    " width="400">
 
 <!--
 **KadwaMahesh/KadwaMahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
